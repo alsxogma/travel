@@ -1,0 +1,31 @@
+h1{
+  text-align:center;
+  font-size: 50px;
+  border-width: 2px;
+  border-color:black;
+  border-style:solid;
+  padding: 20px;
+  margin:10px;
+
+}
+
+.atag{
+  font-weight: bold;
+  color : black;
+  text-align:left;
+  font-size: 20px;
+  border-width: 2px;
+  width:170px;
+  height:2100px;
+  border-color:black;
+  border-style:solid;
+  padding: 0px;
+  margin:10px
+}
+#grid{
+  display:grid;
+  grid-template-columns: 220pX 1fr;
+}
+.뒤로가기{
+  text-align: left;
+}
